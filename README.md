@@ -23,3 +23,5 @@ Passionate about systems, mobile platforms, and exploring software from the insi
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IDA Pro](https://img.shields.io/badge/IDA%20Pro-FF6C37.svg?style=for-the-badge&logo=hexo&logoColor=white)
+
+---
